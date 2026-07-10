@@ -1,0 +1,5 @@
+.DS_Store
+rockets.db
+*.db
+*.db-shm
+*.db-wal
